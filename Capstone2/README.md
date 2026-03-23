@@ -109,9 +109,12 @@
 
 
 ## 4. 헤드라인 생성
-- 프롬포트 엔지니어링을 통해 선정성 수치가 높은 헤드라인을 비선정적으로 생성
 - 트랜스포머 디코더 기반의 LLM 중 프롬프트 엔지니어링이 가능한 모델 사용
 - 선정성 판별 및 수치화 과정을 통해 도출된 선정성 수치 상위 100개 기사 헤드라인을 비선정적으로 생성
+- 프롬포트 엔지니어링을 통해 선정성 수치가 높은 헤드라인을 비선정적으로 생성
+- [`소스 코드 (KULLM3&KoBART 생성 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/gen_kullm3&KoBART.py)
+- [`소스 코드 (GPT-4 Turbo 생성 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/gen_gpt4turbo.py)
+
 
 **생성 평가지표**
 
