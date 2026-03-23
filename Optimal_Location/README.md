@@ -102,8 +102,8 @@
 
 
 ## 3. 분석 방법
-* [`소스 코드 (최적화)`]((https://github.com/Gyeong-Eun/portpolio/blob/master/Optimal_Location/code/폐의약품_set_covering&P_median&세대수.ipynb)
-<br>
+- [`소스 코드 (최적화)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Optimal_Location/code/폐의약품_set_covering&P_median&세대수.ipynb)
+
 **Set-covering → 폐의약품 수거함의 최소 설치 개수 산출**
 - 시설 간의 최대 허용거리를 모두 커버할 수 있는 최소의 입지 수를 결정하는 의사결정 기법인 set-covering 모형을 적용
 - 모든 사람들에게 폐의약품 수거 서비스를 제공하면서 최소의 폐의약품 수거시설의 개수를 결정하기 위해 위에서 설정한 후보지와 블록화한 수요지 데이터를 바탕으로 set-covering 모형을 적용
