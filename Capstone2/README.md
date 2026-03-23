@@ -99,7 +99,7 @@
 - KcELECTRA 모델이 재현율, PR_AUC 모두 다른 모델에 비해 가장 높은 성능을 나타냄
 - KcELECTRA, KoELECTRA, KLUE-RoBERTa 모델이 PR_AUC에서 비슷한 수준으로 높은 성능을 보였으나 KcELECTRA 모델이 재현율에서 다른 모델에 비해 우수한 성능을 기록
 - KcELECTRA를 헤드라인 선정성 판별 및 수치화 모델로 선정
-- [`소스 코드 (KcELECTRA)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/KcELECTRA.ipynb)
+- [`소스 코드 (헤드라인 선정성 판별_KcELECTRA)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/KcELECTRA.ipynb)
 <br>
 
 <br>
@@ -124,6 +124,8 @@
 **3) GPT-4 Turbo 모델 평가**
 - 생성된 헤드라인이 헤드라인의 형식에 부합하는지 확인
 - 0점에서 5점까지의 헤드라인 형식 평가 척도를 통해 실제로 사용 가능한 헤드라인의 형태로 생성되었는지 평가
+- [`소스 코드 (헤드라인 형식 평가 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/evaluation_head.ipynb)
+
 
 <p>
 <img src="https://github.com/user-attachments/assets/3a2bcd8d-b7f6-4335-bf46-e6ecadd3c4b0" width="300"/>
@@ -146,6 +148,8 @@
 - 선정성 판별 및 수치화 과정을 통해 도출된 선정성 수치 상위 100개 기사 헤드라인을 비선정적으로 생성
 - 세 모델 모두 비선정적인 헤드라인을 생성했지만, GPT-4 Turbo가 본문의 내용을 효과적으로 반영하고 헤드라인 형식에 가장 적합하게 생성
 - GPT-4 Turbo를 헤드라인 생성 모델로 채택
+- [`소스 코드 (헤드라인 생성_GPT-4 Turbo)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/gpt4turbo.ipynb)
+
 
 
 **생성된 헤드라인 예시**
