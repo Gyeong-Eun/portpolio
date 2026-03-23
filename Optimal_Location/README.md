@@ -78,7 +78,7 @@
 
 **3) T map API**
 - 후보지와 수요지 간의 실제 도보 거리행렬 데이터 구축
-- [`소스 코드 (도보 거리 데이터 수집)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Optimal_Location/code/폐의약품_티맵api_거리행렬.ipynb)
+- [`소스 코드 (도보 거리 데이터 수집)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Optimal_Location/code/Tmap_거리행렬.ipynb)
 <br>
 
 
