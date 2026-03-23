@@ -99,6 +99,8 @@
 - KcELECTRA 모델이 재현율, PR_AUC 모두 다른 모델에 비해 가장 높은 성능을 나타냄
 - KcELECTRA, KoELECTRA, KLUE-RoBERTa 모델이 PR_AUC에서 비슷한 수준으로 높은 성능을 보였으나 KcELECTRA 모델이 재현율에서 다른 모델에 비해 우수한 성능을 기록
 - KcELECTRA를 헤드라인 선정성 판별 및 수치화 모델로 선정
+- [`소스 코드 (KcELECTRA)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/KcELECTRA.ipynb)
+<br>
 
 <br>
 
