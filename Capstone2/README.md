@@ -63,7 +63,7 @@
 **2) 네이버 뉴스 기사 크롤링**
 - 기사 데이터 : 언론사, URL, 제목, 본문으로 구성된 총 13,839행의 데이터셋 구축
 - 4년 간의 5개 언론사의 기사를 크롤링 수행, ‘텍스트 윤리검증 데이터’의 선정적 문장 주요 어휘 키워드로 검색하여 수집
-- [`소스 코드 (세계일보_크롤링)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/뉴스기사_크롤링_세계일보.ipynb)
+- [`소스 코드 (뉴스 기사 데이터 크롤링_세계일보)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/뉴스기사_크롤링_세계일보.ipynb)
 <br>
 
 ### 크롤링 데이터 전처리
@@ -124,7 +124,7 @@
 **3) GPT-4 Turbo 모델 평가**
 - 생성된 헤드라인이 헤드라인의 형식에 부합하는지 확인
 - 0점에서 5점까지의 헤드라인 형식 평가 척도를 통해 실제로 사용 가능한 헤드라인의 형태로 생성되었는지 평가
-- [`소스 코드 (헤드라인 형식 평가 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/evaluation_head.ipynb)
+- [`소스 코드 (헤드라인 형식 평가 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/evaluation_head.py)
 
 
 <p>
@@ -155,7 +155,7 @@
 **생성된 헤드라인 예시**
 
 <p>
-<img src="https://github.com/user-attachments/assets/c0e9347b-92ad-4c07-b108-9d34719ef36a" width="500"/>
+<img src="https://github.com/user-attachments/assets/c0e9347b-92ad-4c07-b108-9d34719ef36a" width="600"/>
 </p>
 <br>
 
