@@ -46,6 +46,7 @@
 
 **프로젝트 진행 과정**
 <br>
+
 <img src="https://github.com/user-attachments/assets/ff525f73-c2c7-4042-ac84-9e667debfbd2" width="650"/>
 <br>
 
