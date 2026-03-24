@@ -1,7 +1,9 @@
 # [공공/ML] 쇼핑 관광활성화 요인 분석 
 `Python | Pandas | Scikit-learn`
 - 수도권 집중 현상으로 지방소멸 문제를 해결하기 위한 해결 방향 제시
-- 지역 관광 활성화에 영향을 미치는 요인을 분석하고 이를 기반으로 한 인사이트 도출 
+- 지역 관광 활성화에 영향을 미치는 요인을 분석하고 이를 기반으로 한 인사이트 도출
+- [`전체 소스 코드`](https://github.com/Gyeong-Eun/portpolio/blob/master/ShopTourism/code/project_shopping.ipynb)
+
 <br>
 
 
@@ -25,7 +27,6 @@
 
 
 ## 1. 개요
-- [`전체 소스 코드`](https://github.com/Gyeong-Eun/portpolio/blob/master/ShopTourism/code/project_shopping.ipynb)
 
 
 **프로젝트 성과**
