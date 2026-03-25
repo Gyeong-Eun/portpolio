@@ -94,6 +94,8 @@
 <img src="https://github.com/user-attachments/assets/171f0a14-a4a5-436e-ba51-03c265d7f147" width="500"/>
 <br>
 
+
+
 **평가지표**
 - 학습에 사용한 데이터셋이 18:1로 불균형하기 때문에, 모델이 선정적인 문장을 정확하게 예측하는 것이 중요하다고 판단하여 재현율과 PR_AUC를 성능 평가 지표로 사용
 <br>
